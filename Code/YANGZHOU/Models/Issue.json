@@ -1,0 +1,9 @@
+[
+    {"id": 0, "type": 1, "title": "景区树木问题", "content": "景区树木太茂密遮挡风景，需要修剪","target":"target","money":5000,
+        "department":"department","personID":"personID","personName":"personName","progress":0
+    },
+    {"id": 1, "type": 1, "title": "春江花月夜演出提案", "content": "演出将在瘦西湖的湖畔举行，舞台搭建在湖水边缘，与自然景色相得益彰。整个舞台设计将充分利用瘦西湖的特点，让观众仿佛置身于花海之中。演出将在夜幕降临之时开始，利用灯光的巧妙布置，营造出浪漫神秘的氛围。","target":"融合了传统文化和现代艺术的盛会","money":200000,
+        "department":"department","personID":"personID","personName":"personName","progress":0}
+    
+    
+]
